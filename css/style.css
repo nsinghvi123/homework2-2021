@@ -1,0 +1,73 @@
+body {
+    background: black;
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+    text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 32px;
+    text-shadow: 4px 4px 2px grey;
+
+}
+
+p {
+    font-size: 24px;
+    padding-top: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 550px;
+}
+
+div {
+    min-height: 150px;
+    padding: 25px;
+}
+
+
+#red { 
+    background:red;
+    text-align: right;
+}
+
+#blue {
+    background: blue;
+    text-align: left;
+}
+
+#yellow {
+    background: yellow;
+    text-align: right;
+}
+
+#yellow h2 {
+    color: black;
+    text-shadow: 4px 4px 2px #c7e2c7;
+
+}
+
+#yellow p {
+    color: black;
+
+}
+
+#green {
+    background: green;
+    text-align: left;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+
